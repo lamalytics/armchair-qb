@@ -1,210 +1,201 @@
- Player Name ,POS,Team,Proj. Points,Rec
-Marcus Washington,QB,ARI,374.5,0
-Jalen Jefferson,QB,ATL,363.2,0
-DeAndre Robinson,QB,BAL,361.8,0
-Tyler Carter,QB,BUF,357.4,0
-Jordan Mitchell,QB,CAR,356.1,0
-Chris Henderson,QB,CHI,352.9,0
-Brandon Brooks,QB,CIN,349.6,0
-Malik Coleman,QB,CLE,346.3,0
-Devon Sanders,QB,DAL,343.1,0
-Xavier Patterson,QB,DEN,339.8,0
-Cameron Hayes,QB,DET,336.5,0
-Isaiah Griffin,QB,GB,333.3,0
-Trey Watts,QB,HOU,330.0,0
-Kyler Bryant,QB,IND,326.8,0
-Aaron Dawson,QB,JAX,323.5,0
-Josh Ellison,QB,KC,320.2,0
-Derek Fontaine,QB,LAC,317.0,0
-Zach Gibson,QB,LAR,313.7,0
-Noah Holloway,QB,LV,310.4,0
-Elijah Ingram,QB,MIA,307.2,0
-Rashad Jennings,QB,MIN,303.9,0
-Terrell Kirkland,QB,NE,300.6,0
-Amari Lawson,QB,NO,297.4,0
-Cooper Maddox,QB,NYG,294.1,0
-Dalton Norwood,QB,NYJ,290.8,0
-Gage Overton,QB,PHI,287.5,0
-Hunter Pierce,QB,PIT,284.3,0
-Javon Quimby,QB,SEA,281.0,0
-Kenyan Rutledge,QB,SF,277.7,0
-Lamar Simmons,QB,TB,274.5,0
-Micah Tillman,QB,TEN,271.2,0
-Nico Upshaw,QB,WAS,267.9,0
-Xavier Vance,QB,ARI,264.7,0
-Rashad Whitfield,QB,ATL,261.4,0
-Terrell Xiong,QB,BAL,258.1,0
-Amari Youngblood,QB,BUF,254.8,0
-Cooper Zeller,QB,CAR,251.6,0
-Dalton Abernathy,QB,CHI,248.3,0
-Gage Bostic,QB,CIN,245.0,0
-Hunter Crenshaw,QB,CLE,241.8,0
-Javon Delgado,QB,DAL,238.5,0
-Kenyan Everett,QB,DEN,235.2,0
-Lamar Fambro,QB,DET,232.0,0
-Micah Gathers,QB,GB,228.7,0
-Nico Hutchins,QB,HOU,225.4,0
-Xavier Iverson,QB,IND,222.1,0
-Rashad Jasper,QB,JAX,218.9,0
-Terrell Kessler,QB,KC,215.6,0
-Amari Lockett,QB,LAC,212.3,0
-Cooper McCray,QB,LAR,209.1,0
-Marcus Washington,RB,ARI,280.3,65
-Jalen Jefferson,RB,ATL,261.9,58
-DeAndre Robinson,RB,BAL,247.6,54
-Tyler Carter,RB,BUF,235.8,51
-Jordan Mitchell,RB,CAR,226.4,48
-Chris Henderson,RB,CHI,219.1,46
-Brandon Brooks,RB,CIN,212.9,44
-Malik Coleman,RB,CLE,207.6,42
-Devon Sanders,RB,DAL,202.8,40
-Xavier Patterson,RB,DEN,198.4,39
-Cameron Hayes,RB,DET,194.3,37
-Isaiah Griffin,RB,GB,190.6,36
-Trey Watts,RB,HOU,187.1,35
-Kyler Bryant,RB,IND,183.8,34
-Aaron Dawson,RB,JAX,180.8,33
-Josh Ellison,RB,KC,178.0,32
-Derek Fontaine,RB,LAC,175.3,31
-Zach Gibson,RB,LAR,172.8,30
-Noah Holloway,RB,LV,170.5,29
-Elijah Ingram,RB,MIA,168.3,28
-Rashad Jennings,RB,MIN,166.2,27
-Terrell Kirkland,RB,NE,164.2,26
-Amari Lawson,RB,NO,162.4,25
-Cooper Maddox,RB,NYG,160.7,24
-Dalton Norwood,RB,NYJ,159.0,23
-Gage Overton,RB,PHI,157.5,22
-Hunter Pierce,RB,PIT,156.1,21
-Javon Quimby,RB,SEA,154.7,20
-Kenyan Rutledge,RB,SF,153.4,19
-Lamar Simmons,RB,TB,152.2,18
-Micah Tillman,RB,TEN,151.1,17
-Nico Upshaw,RB,WAS,150.0,16
-Xavier Vance,RB,ARI,148.7,15
-Rashad Whitfield,RB,ATL,147.2,14
-Terrell Xiong,RB,BAL,145.4,13
-Amari Youngblood,RB,BUF,143.3,12
-Cooper Zeller,RB,CAR,140.9,11
-Dalton Abernathy,RB,CHI,138.2,10
-Gage Bostic,RB,CIN,135.2,9
-Hunter Crenshaw,RB,CLE,131.8,8
-Javon Delgado,RB,DAL,128.1,7
-Kenyan Everett,RB,DEN,124.1,6
-Lamar Fambro,RB,DET,119.6,5
-Micah Gathers,RB,GB,114.7,4
-Nico Hutchins,RB,HOU,109.4,3
-Xavier Iverson,RB,IND,103.6,2
-Rashad Jasper,RB,JAX,97.2,1
-Marcus Washington,WR,ARI,240.1,96
-Jalen Jefferson,WR,ATL,223.4,89
-DeAndre Robinson,WR,BAL,209.6,83
-Tyler Carter,WR,BUF,198.9,78
-Jordan Mitchell,WR,CAR,190.5,74
-Chris Henderson,WR,CHI,183.8,71
-Brandon Brooks,WR,CIN,178.2,68
-Malik Coleman,WR,CLE,173.3,65
-Devon Sanders,WR,DAL,169.0,63
-Xavier Patterson,WR,DEN,165.1,61
-Cameron Hayes,WR,DET,161.6,59
-Isaiah Griffin,WR,GB,158.3,57
-Trey Watts,WR,HOU,155.2,55
-Kyler Bryant,WR,IND,152.3,53
-Aaron Dawson,WR,JAX,149.6,52
-Josh Ellison,WR,KC,147.0,50
-Derek Fontaine,WR,LAC,144.6,48
-Zach Gibson,WR,LAR,142.3,47
-Noah Holloway,WR,LV,140.1,45
-Elijah Ingram,WR,MIA,138.0,44
-Rashad Jennings,WR,MIN,136.0,43
-Terrell Kirkland,WR,NE,134.0,42
-Amari Lawson,WR,NO,132.1,40
-Cooper Maddox,WR,NYG,130.3,39
-Dalton Norwood,WR,NYJ,128.5,38
-Gage Overton,WR,PHI,126.8,37
-Hunter Pierce,WR,PIT,125.2,36
-Javon Quimby,WR,SEA,123.6,35
-Kenyan Rutledge,WR,SF,122.1,34
-Lamar Simmons,WR,TB,120.6,33
-Micah Tillman,WR,TEN,119.2,32
-Nico Upshaw,WR,WAS,117.8,31
-Xavier Vance,WR,ARI,116.4,30
-Rashad Whitfield,WR,ATL,114.7,28
-Terrell Xiong,WR,BAL,112.7,26
-Amari Youngblood,WR,BUF,110.5,24
-Cooper Zeller,WR,CAR,108.0,22
-Dalton Abernathy,WR,CHI,105.2,20
-Gage Bostic,WR,CIN,102.1,18
-Hunter Crenshaw,WR,CLE,98.6,16
-Javon Delgado,WR,DAL,94.7,14
-Kenyan Everett,WR,DEN,90.4,12
-Lamar Fambro,WR,DET,85.7,10
-Micah Gathers,WR,GB,80.5,8
-Nico Hutchins,WR,HOU,75.0,6
-Xavier Iverson,WR,IND,69.0,4
-Rashad Jasper,WR,JAX,62.6,2
-Marcus Washington,TE,ARI,297.9,68
-Jalen Jefferson,TE,ATL,239.6,57
-DeAndre Robinson,TE,BAL,201.9,49
-Tyler Carter,TE,BUF,179.6,43
-Jordan Mitchell,TE,CAR,164.7,39
-Chris Henderson,TE,CHI,153.9,36
-Brandon Brooks,TE,CIN,145.9,34
-Malik Coleman,TE,CLE,139.7,32
-Devon Sanders,TE,DAL,134.7,31
-Xavier Patterson,TE,DEN,130.5,30
-Cameron Hayes,TE,DET,127.0,29
-Isaiah Griffin,TE,GB,124.0,28
-Trey Watts,TE,HOU,121.4,27
-Kyler Bryant,TE,IND,119.1,26
-Aaron Dawson,TE,JAX,117.1,25
-Josh Ellison,TE,KC,115.3,24
-Derek Fontaine,TE,LAC,113.6,23
-Zach Gibson,TE,LAR,112.1,22
-Noah Holloway,TE,LV,110.8,21
-Elijah Ingram,TE,MIA,109.6,20
-Rashad Jennings,TE,MIN,108.5,19
-Terrell Kirkland,TE,NE,107.5,18
-Amari Lawson,TE,NO,106.6,17
-Cooper Maddox,TE,NYG,105.8,16
-Dalton Norwood,TE,NYJ,105.1,15
-Gage Overton,TE,PHI,104.4,14
-Hunter Pierce,TE,PIT,103.8,13
-Javon Quimby,TE,SEA,103.3,12
-Kenyan Rutledge,TE,SF,102.9,11
-Lamar Simmons,TE,TB,102.5,10
-Micah Tillman,TE,TEN,102.2,9
-Nico Upshaw,TE,WAS,101.9,8
-Xavier Vance,TE,ARI,101.6,7
-Rashad Whitfield,TE,ATL,101.2,6
-Terrell Xiong,TE,BAL,100.7,5
-Amari Youngblood,TE,BUF,100.1,4
-Cooper Zeller,TE,CAR,99.3,3
-Dalton Abernathy,TE,CHI,98.3,2
-Gage Bostic,K,CIN,155.2,0
-Hunter Crenshaw,K,CLE,149.1,0
-Javon Delgado,K,DAL,143.8,0
-Kenyan Everett,K,DEN,139.2,0
-Lamar Fambro,K,DET,134.9,0
-Micah Gathers,K,GB,131.0,0
-Nico Hutchins,K,HOU,127.3,0
-Xavier Iverson,K,IND,123.8,0
-Rashad Jasper,K,JAX,120.6,0
-Marcus Washington,K,ARI,117.5,0
-Jalen Jefferson,K,ATL,114.6,0
-DeAndre Robinson,K,BAL,111.9,0
-Tyler Carter,K,BUF,109.3,0
-Steelers D/ST,DST,PIT,140.2,0
-49ers D/ST,DST,SF,126.8,0
-Ravens D/ST,DST,BAL,115.4,0
-Cowboys D/ST,DST,DAL,106.1,0
-Jets D/ST,DST,NYJ,98.2,0
-Browns D/ST,DST,CLE,91.6,0
-Bills D/ST,DST,BUF,86.3,0
-Chiefs D/ST,DST,KC,81.9,0
-Dolphins D/ST,DST,MIA,78.1,0
-Saints D/ST,DST,NO,74.8,0
-Eagles D/ST,DST,PHI,71.9,0
-Texans D/ST,DST,HOU,69.3,0
-Lions D/ST,DST,DET,66.9,0
-Packers D/ST,DST,GB,93.5,0
+Player Name	Pos	Team	Proj Points	Rec
+Josh Allen	QB	BUF	385	0
+Lamar Jackson	QB	BAL	380	0
+Jalen Hurts	QB	PHI	362	0
+Jayden Daniels	QB	WAS	356	0
+Joe Burrow	QB	CIN	350	0
+Baker Mayfield	QB	TB	332	0
+Patrick Mahomes	QB	KC	328	0
+Kyler Murray	QB	ARI	316	0
+Bo Nix	QB	DEN	314	0
+Justin Herbert	QB	LAC	306	0
+Brock Purdy	QB	SF	300	0
+Jordan Love	QB	GB	298	0
+Dak Prescott	QB	DAL	295	0
+Jared Goff	QB	DET	293	0
+Caleb Williams	QB	CHI	291	0
+C.J. Stroud	QB	HOU	288	0
+Justin Fields	QB	NYJ	286	0
+Drake Maye	QB	NE	283	0
+Tua Tagovailoa	QB	MIA	274	0
+Trevor Lawrence	QB	JAX	270	0
+Matthew Stafford	QB	LAR	267	0
+Michael Penix Jr.	QB	ATL	264	0
+Sam Darnold	QB	SEA	262	0
+Bryce Young	QB	CAR	259	0
+J.J. McCarthy	QB	MIN	256	0
+Geno Smith	QB	LV	253	0
+Cam Ward	QB	TEN	250	0
+Aaron Rodgers	QB	PIT	247	0
+Bijan Robinson	RB	ATL	285	55
+Saquon Barkley	RB	PHI	275	35
+Jahmyr Gibbs	RB	DET	272	52
+Derrick Henry	RB	BAL	250	15
+Christian McCaffrey	RB	SF	248	60
+Ashton Jeanty	RB	LV	242	40
+De'Von Achane	RB	MIA	238	55
+Josh Jacobs	RB	GB	236	35
+Jonathan Taylor	RB	IND	232	25
+Bucky Irving	RB	TB	222	45
+Kyren Williams	RB	LAR	218	30
+Chase Brown	RB	CIN	212	40
+James Cook	RB	BUF	208	30
+Kenneth Walker III	RB	SEA	196	30
+Chuba Hubbard	RB	CAR	192	35
+James Conner	RB	ARI	190	30
+Breece Hall	RB	NYJ	188	45
+Omarion Hampton	RB	LAC	186	32
+Alvin Kamara	RB	NO	182	55
+David Montgomery	RB	DET	174	25
+Joe Mixon	RB	HOU	170	30
+Aaron Jones	RB	MIN	168	40
+Quinshon Judkins	RB	CLE	166	20
+Tony Pollard	RB	TEN	164	30
+D'Andre Swift	RB	CHI	163	35
+RJ Harvey	RB	DEN	162	35
+TreVeyon Henderson	RB	NE	160	35
+Isiah Pacheco	RB	KC	158	25
+Kaleb Johnson	RB	PIT	156	20
+Rhamondre Stevenson	RB	NE	148	25
+Brian Robinson Jr.	RB	WAS	142	15
+Tyrone Tracy Jr.	RB	NYG	140	25
+Cam Skattebo	RB	NYG	136	25
+Jaylen Warren	RB	PIT	134	30
+Javonte Williams	RB	DAL	133	25
+J.K. Dobbins	RB	DEN	132	15
+Travis Etienne Jr.	RB	JAX	130	25
+Zach Charbonnet	RB	SEA	128	25
+Najee Harris	RB	LAC	124	20
+Tank Bigsby	RB	JAX	118	10
+Trey Benson	RB	ARI	116	20
+Jordan Mason	RB	MIN	114	12
+Rico Dowdle	RB	CAR	112	20
+Rachaad White	RB	TB	110	35
+Nick Chubb	RB	HOU	108	10
+Tyjae Spears	RB	TEN	106	25
+Braelon Allen	RB	NYJ	104	12
+Jerome Ford	RB	CLE	102	25
+Ray Davis	RB	BUF	100	15
+Austin Ekeler	RB	WAS	98	40
+Isaac Guerendo	RB	SF	96	15
+Tyler Allgeier	RB	ATL	94	10
+Kareem Hunt	RB	KC	92	15
+Bhayshul Tuten	RB	JAX	90	15
+Dylan Sampson	RB	CLE	88	25
+Ja'Marr Chase	WR	CIN	238	110
+Justin Jefferson	WR	MIN	228	100
+CeeDee Lamb	WR	DAL	220	105
+Puka Nacua	WR	LAR	216	100
+Amon-Ra St. Brown	WR	DET	212	105
+Malik Nabers	WR	NYG	205	100
+Nico Collins	WR	HOU	202	80
+Brian Thomas Jr.	WR	JAX	198	85
+A.J. Brown	WR	PHI	196	80
+Drake London	WR	ATL	192	90
+Ladd McConkey	WR	LAC	185	85
+Jaxon Smith-Njigba	WR	SEA	182	90
+Tee Higgins	WR	CIN	178	75
+Tyreek Hill	WR	MIA	176	80
+Mike Evans	WR	TB	174	70
+Marvin Harrison Jr.	WR	ARI	172	75
+Garrett Wilson	WR	NYJ	170	85
+Rashee Rice	WR	KC	168	85
+Davante Adams	WR	LAR	166	80
+Terry McLaurin	WR	WAS	165	75
+DK Metcalf	WR	PIT	163	70
+DeVonta Smith	WR	PHI	160	75
+Zay Flowers	WR	BAL	158	75
+Courtland Sutton	WR	DEN	155	70
+DJ Moore	WR	CHI	153	80
+Jameson Williams	WR	DET	151	60
+Xavier Worthy	WR	KC	149	70
+George Pickens	WR	DAL	147	60
+Tetairoa McMillan	WR	CAR	145	70
+Chris Godwin	WR	TB	143	75
+Jerry Jeudy	WR	CLE	141	70
+Travis Hunter	WR	JAX	140	70
+Calvin Ridley	WR	TEN	138	65
+Rome Odunze	WR	CHI	136	65
+Chris Olave	WR	NO	134	70
+Jordan Addison	WR	MIN	133	60
+Jakobi Meyers	WR	LV	131	70
+Stefon Diggs	WR	NE	129	70
+Deebo Samuel	WR	WAS	127	60
+Jaylen Waddle	WR	MIA	126	60
+Khalil Shakir	WR	BUF	124	70
+Matthew Golden	WR	GB	122	55
+Ricky Pearsall	WR	SF	121	60
+Jayden Reed	WR	GB	119	55
+Michael Pittman Jr.	WR	IND	118	60
+Cooper Kupp	WR	SEA	117	60
+Jauan Jennings	WR	SF	115	55
+Emeka Egbuka	WR	TB	114	55
+Josh Downs	WR	IND	112	60
+Rashid Shaheed	WR	NO	110	55
+Darnell Mooney	WR	ATL	108	50
+Keon Coleman	WR	BUF	107	50
+Brandon Aiyuk	WR	SF	105	50
+Cedric Tillman	WR	CLE	103	50
+Quentin Johnston	WR	LAC	101	45
+Christian Kirk	WR	HOU	99	55
+Luther Burden III	WR	CHI	97	50
+Hollywood Brown	WR	KC	95	50
+Wan'Dale Robinson	WR	NYG	93	60
+Marvin Mims Jr.	WR	DEN	91	45
+Adam Thielen	WR	CAR	89	50
+Romeo Doubs	WR	GB	87	45
+DeMario Douglas	WR	NE	85	50
+Tyler Lockett	WR	TEN	83	45
+Joshua Palmer	WR	BUF	81	40
+Brock Bowers	TE	LV	188	100
+Trey McBride	TE	ARI	176	95
+George Kittle	TE	SF	158	70
+Sam LaPorta	TE	DET	138	70
+T.J. Hockenson	TE	MIN	124	70
+Travis Kelce	TE	KC	120	70
+Mark Andrews	TE	BAL	118	55
+David Njoku	TE	CLE	114	60
+Tucker Kraft	TE	GB	112	50
+Evan Engram	TE	DEN	108	60
+Tyler Warren	TE	IND	106	55
+Dalton Kincaid	TE	BUF	100	55
+Jake Ferguson	TE	DAL	96	55
+Colston Loveland	TE	CHI	94	50
+Dallas Goedert	TE	PHI	92	50
+Hunter Henry	TE	NE	89	50
+Kyle Pitts	TE	ATL	87	50
+Jonnu Smith	TE	PIT	84	45
+Zach Ertz	TE	WAS	82	50
+Pat Freiermuth	TE	PIT	76	40
+Cade Otton	TE	TB	74	45
+Isaiah Likely	TE	BAL	72	35
+Chig Okonkwo	TE	TEN	69	40
+Ja'Tavion Sanders	TE	CAR	66	35
+Brandon Aubrey	K	DAL	156	0
+Jake Bates	K	DET	146	0
+Chris Boswell	K	PIT	142	0
+Ka'imi Fairbairn	K	HOU	140	0
+Cameron Dicker	K	LAC	138	0
+Tyler Bass	K	BUF	134	0
+Jason Sanders	K	MIA	132	0
+Harrison Butker	K	KC	130	0
+Chase McLaughlin	K	TB	128	0
+Evan McPherson	K	CIN	126	0
+Younghoe Koo	K	ATL	124	0
+Jake Elliott	K	PHI	122	0
+Cairo Santos	K	CHI	120	0
+Wil Lutz	K	DEN	118	0
+Ravens D/ST	DST	BAL	130	0
+Broncos D/ST	DST	DEN	127	0
+Steelers D/ST	DST	PIT	124	0
+Eagles D/ST	DST	PHI	121	0
+Texans D/ST	DST	HOU	118	0
+Vikings D/ST	DST	MIN	116	0
+Packers D/ST	DST	GB	113	0
+Lions D/ST	DST	DET	111	0
+Bills D/ST	DST	BUF	109	0
+Chiefs D/ST	DST	KC	107	0
+Jets D/ST	DST	NYJ	104	0
+Seahawks D/ST	DST	SEA	102	0
+Cowboys D/ST	DST	DAL	100	0
+49ers D/ST	DST	SF	98	0
